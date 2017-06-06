@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/daksheshpatel/Downloads/GrowingTextView-master/Example/build/Debug-iphonesimulator/GrowingTextView/GrowingTextView.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/daksheshpatel/Downloads/GrowingTextView-master/Example/build/Pods.build/Debug-iphonesimulator/GrowingTextView.build/unextended-module.modulemap',
+    }]
+  }]
+}

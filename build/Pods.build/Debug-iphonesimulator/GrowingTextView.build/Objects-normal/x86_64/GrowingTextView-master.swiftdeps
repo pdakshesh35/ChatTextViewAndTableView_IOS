@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "196210196dc3fa9f34ee7dcb585a87c4"
+build_time: [550048231, 413675000]
+inputs:
+  "/Users/daksheshpatel/Downloads/GrowingTextView-master/Pod/Classes/GrowingTextView.swift": [548812714, 0]
